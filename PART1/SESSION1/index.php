@@ -1,1 +1,1 @@
-<?php echo "Hello INS3064 on Mac!"; ?>
+<?php echo "Hello INS3064 on Win!"; ?>
